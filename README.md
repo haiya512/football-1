@@ -39,3 +39,6 @@ $ python football.py http://zq.win007.com/analysis/1090590sb.htm
 ```shell
 $ pip install -r requirements.txt
 ```
+
+#### 说明
+整体感觉不太好,从比分网拉取的数据，展示为网页
